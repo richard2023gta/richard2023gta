@@ -1,4 +1,4 @@
-<h1>名著《呼啸山庄》中英文对照翻译 第1篇</h1>
+<h1 align='center'>名著《呼啸山庄》中英文对照翻译 第1篇</h1>
 日期:2008-09-13 23:00
 (单词翻译:单击)
 <br>
@@ -24,21 +24,22 @@ A nod was the answer.
 <b>'Thrushcross Grange is my own, sir,' he interrupted, wincing. 'I should not allow any one to inconvenience me, if I could hinder it - walk in!'</b>
 <br/>
 “先生，画眉山庄是我的财产，”他打断我的话，退缩了一下，“如果我可以阻止的话，我不会让任何人给我造成不便。进来！”
-<br/>
+<br><br>
 The 'walk in' was uttered with closed teeth, and expressed the sentiment, 'Go to the Deuce:' even the gate over which he leant manifested no sympathising movement to the words; and I think that circumstance determined me to accept the invitation: I felt interested in a man who seemed more exaggeratedly reserved than myself.
-<br/>
+<br>
 “进来”是从牙缝中挤出来的，也表明了他的态度，“见鬼去!”，甚至他靠着的门也没有因他的话而作出相应的移动；而我认为在这样的情况下，我必须接受他的邀请：我对这个比我还要过于缄默的人很感兴趣。
-<br/>
+<br><br>
 When he saw my horse's breast fairly pushing the barrier, he did put out his hand to unchain it, and then sullenly preceded me up the causeway, calling, as we entered the court, - 'Joseph, take Mr. Lockwood's horse; and bring up some wine.'
 <br/>
 看见我的马的胸部正好压在栅栏上，他伸出手解开我的马，然后很不高兴的领着我向堤道走。我们一进院子，他就喊道：“约瑟夫，把洛克伍德的马牵走，再拿些酒来。”
-
+<br><br>
 'Here we have the whole establishment of domestics, I suppose,' was the reflection suggested by this compound order. 'No wonder the grass grows up between the flags, and cattle are the only hedge- cutters.'</br>
 “我想，这是我们所有的家仆”这是这个双重任务的吩咐所暗示的，“这也就怪不得石板之间杂草丛生，因为只有牛在做修剪树篱的工作。”
-
-Joseph was an elderly, nay, an old man: very old, perhaps, though hale and sinewy. 'The Lord help us!' he soliloquised in an undertone of peevish displeasure, while relieving me of my horse: looking, meantime, in my face so sourly that I charitably conjectured he must have need of divine aid to digest his dinner, and his pious ejaculation had no reference to my unexpected advent.</br>
+<br><br>
+<b>Joseph was an elderly, nay, an old man: very old, perhaps, though hale and sinewy. 'The Lord help us!' he soliloquised in an undertone of peevish displeasure, while relieving me of my horse: looking, meantime, in my face so sourly that I charitably conjectured he must have need of divine aid to digest his dinner, and his pious ejaculation had no reference to my unexpected advent.</b>
+<br>
 约瑟夫是已经年过中年，不，应当是一个老人，尽管强壮有力，但是非常的老。“主保佑我们，”当牵过我的马时，他愤愤的小声嘟哝，同时烦躁地盯着我的脸以至于我大方地推测他一定是需要神的帮助来消化他的晚餐，而他突然迸发处来的虔诚的祷告与我的不期而来是毫不相关。
-
+<br><br>
 重点单词<br/>
 troubledadj. 动乱的，不安的；混乱的；困惑的 <br/>
 reflectionn. 反映，映像，折射，沉思，影响<br/>
