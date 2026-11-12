@@ -1872,3 +1872,5 @@ fevern. 发烧，发热，狂热 v. （使）发烧，（使）狂热</br>
 countenancen. 面容，面部表情，支持</br>
 recklessadj. 不计后果的，大意的，鲁莽的</br>
 desperateadj. 绝望的，不顾一切的</br>
+<br><br>
+<b>Contact:</b>   richard2023gta@gmail.com
